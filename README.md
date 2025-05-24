@@ -70,7 +70,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 📫 Contact
 For questions or feedback, reach out via:
 
-Email: your.email@example.com
+Email: negihimanshu403@gmai.com
 
 GitHub: your-username
 
