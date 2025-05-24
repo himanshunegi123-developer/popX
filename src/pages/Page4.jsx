@@ -10,7 +10,7 @@ const Page4 = () => {
 
         {/* Profile image and icon */}
         <div className="mx-3 mt-6 flex items-center ">
-          <img src="./public/img1.jpg" className="w-16 h-16 rounded-full" alt="Profile" />
+          <img src="/img1.jpg" className="w-16 h-16 rounded-full" alt="Profile" />
 
           <div className="bg-[#6C25FF] w-5 h-5 absolute ml-13 mt-6 rounded-full flex items-center justify-center cursor-pointer">
             <i className="ri-camera-line text-white text-sm"></i>
